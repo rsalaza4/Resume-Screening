@@ -13,3 +13,5 @@ This repository contains a Python code for screening a candidate's resume and an
 * [string](https://docs.python.org/2/library/strings.html)
 * [pandas](https://pandas.pydata.org/)
 * [matplotlib](https://matplotlib.org/)
+
+![alt text](https://github.com/rsalaza4/Resume-Screening/blob/master/Images/resume_screening_results.png)
