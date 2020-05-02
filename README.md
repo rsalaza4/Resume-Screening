@@ -14,4 +14,8 @@ This repository contains a Python code for screening a candidate's resume and an
 * [pandas](https://pandas.pydata.org/)
 * [matplotlib](https://matplotlib.org/)
 
+## Outcome
+
+A pie chart with the scores of the candidate expertise areas.
+
 ![alt text](https://github.com/rsalaza4/Resume-Screening/blob/master/Images/resume_screening_results.png)
