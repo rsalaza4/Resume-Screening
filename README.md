@@ -16,6 +16,6 @@ This repository contains a Python code for screening a candidate's resume and an
 
 ## Outcome
 
-Pie chart with the scores of the candidate expertise areas.
+Pie chart with the scores of the candidate's expertise areas.
 
 ![alt text](https://github.com/rsalaza4/Resume-Screening/blob/master/Images/resume_screening_results.png)
