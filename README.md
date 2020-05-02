@@ -3,7 +3,7 @@ This repository contains a Python code for screening a candidate's resume and an
 
 ## Requirements
 
-* [Python](https://www.python.org/)
+* [Python 3.7](https://www.python.org/)
 
 ## Libraries
 
