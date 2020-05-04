@@ -18,4 +18,8 @@ This repository contains a Python code for screening a candidate's resume and an
 
 Pie chart with the scores of the candidate's expertise areas.
 
-![alt text](https://github.com/rsalaza4/Resume-Screening/blob/master/Images/resume_screening_results.png) 
+![alt text](https://github.com/rsalaza4/Resume-Screening/blob/master/Images/resume_screening_results.png)
+
+## Written Article
+
+* [Towards Data Science - Medium](https://towardsdatascience.com/resume-screening-with-python-1dea360be49b)
