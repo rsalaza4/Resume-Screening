@@ -12,7 +12,7 @@ scores = []
 # Obtain the scores for each area
 for area in terms.keys():
         
-    if area == 'Quality':
+    if area == 'Quality/Six Sigma':
         for word in terms[area]:
             if word in text:
                 quality +=1
