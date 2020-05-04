@@ -6,7 +6,7 @@ project = 0
 data = 0
 healthcare = 0
 
-# Creat an empty list where the scores will be stored
+# Create an empty list where the scores will be stored
 scores = []
 
 # Obtain the scores for each area
