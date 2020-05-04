@@ -73,7 +73,7 @@ project = 0
 data = 0
 healthcare = 0
 
-# Creat an empty list where the scores will be stored
+# Create an empty list where the scores will be stored
 scores = []
 
 # Obtain the scores for each area
@@ -115,11 +115,11 @@ for area in terms.keys():
                 healthcare +=1
         scores.append(healthcare)
         
-# Creat a data frame with the scores summary
+# Create a data frame with the scores summary
 summary = pd.DataFrame(scores,index=terms.keys(),columns=['score']).sort_values(by='score',ascending=False)
 summary
 
-# Creat pie chart visualization
+# Create pie chart visualization
 pie = plt.figure(figsize=(10,10))
 plt.pie(summary['score'], labels=summary.index, explode = (0.1,0,0,0,0,0), autopct='%1.0f%%',shadow=True,startangle=90)
 plt.title('Industrial Engineering Candidate - Resume Decomposition by Areas')
