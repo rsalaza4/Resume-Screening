@@ -23,3 +23,9 @@ Pie chart with the scores of the candidate's expertise areas.
 ## Technical Article
 
 * [Towards Data Science - Medium](https://towardsdatascience.com/resume-screening-with-python-1dea360be49b)
+
+---
+
+### Roberto Salazar
+
+**Email:** rsalaza4@binghamton.edu | [LinkedIn](https://www.linkedin.com/in/roberto-salazar-reyna/) | [Medium](https://medium.com/@rsalaza4)
