@@ -56,7 +56,7 @@ terms = {'Quality/Six Sigma':['black belt','capability analysis','control charts
         'Project management':['administration','agile','budget','cost','direction','feasibility analysis',
                               'finance','kanban','leader','leadership','management','milestones','planning',
                               'pmi','pmp','problem','project','risk','schedule','scrum','stakeholders'],
-        'Data analytics':['analytics','api','aws','big data','busines intelligence','clustering','code',
+        'Data analytics':['analytics','api','aws','big data','business intelligence','clustering','code',
                           'coding','data','database','data mining','data science','deep learning','hadoop',
                           'hypothesis test','iot','internet','machine learning','modeling','nosql','nlp',
                           'predictive','programming','python','r','sql','tableau','text mining',
