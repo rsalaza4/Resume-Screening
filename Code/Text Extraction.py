@@ -19,7 +19,7 @@ num_pages = pdfReader.numPages
 # Initialize a count for the number of pages
 count = 0
 
-# Initialize a text empty etring variable
+# Initialize a text empty string variable
 text = ""
 
 # Extract text from every page on the file
