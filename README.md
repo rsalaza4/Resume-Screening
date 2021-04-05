@@ -28,4 +28,4 @@ Pie chart with the scores of the candidate's expertise areas.
 
 ### Roberto Salazar
 
-**Email:** rsalaza4@binghamton.edu | [LinkedIn](https://www.linkedin.com/in/roberto-salazar-reyna/) | [Medium](https://medium.com/@rsalaza4)
+**Email:** rsalaza4@binghamton.edu | [LinkedIn](https://www.linkedin.com/in/roberto-salazar-reyna/) | [Medium](https://robertosalazarr.medium.com/)
